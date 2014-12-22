@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A famous dittie of the ioyful receauing of the Queens moste excellent maiestie, by the worthy citize
+
+1. ❧A famous dittie of the Ioyful receauing of the Queens moste excellent maiestie, by the worthy Citizens of London the xij day of Nouember, 1584. at her graces comming to Saint Iames.
+
 #####Back#####
-A famous dittie of the ioyful receauing of the Queens moste excellent maiestie, by the worthy citize
+¶ AT LONDON Printed by Edward Allde for Yarath Iames and are to be solde in Newgate Market against C
 **Types of content**
 
   * There are 112 **verse** lines!
